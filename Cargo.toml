@@ -1,0 +1,11 @@
+[lib]
+crate-type =["cdylib"]
+
+[package]
+name = "ammonia_c"
+version = "0.1.0"
+authors = ["Eduardo Tongson <propolice@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+ammonia = "3.1.0"
